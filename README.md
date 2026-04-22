@@ -6,8 +6,8 @@ This repository contains a collection of SQL scripts created while learning and 
 
 ---
 
-**## Topics Covered
-**
+## Topics Covered
+
 * SELECT statements
 * WHERE clause & filtering
 * GROUP BY & ORDER BY
@@ -25,8 +25,8 @@ This repository contains a collection of SQL scripts created while learning and 
 
 ---
 
-**## Project Structure
-**
+## Project Structure
+
 Each file demonstrates a specific SQL concept:
 
 * `Select Statement.sql` → Basic data retrieval
@@ -45,7 +45,7 @@ Each file demonstrates a specific SQL concept:
 * `Triggers and Events.sql` → Automation in databases
 * `Limit and Aliasing.sql` → Result control and readability
 
-**## Project Goal
-**
+## Project Goal
+
 To build a strong foundation in SQL and understand how to query, manipulate, and analyze relational data efficiently.
 
