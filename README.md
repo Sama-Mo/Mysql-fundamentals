@@ -1,2 +1,2 @@
-# Create-Database
-Create sql database
+# Mysql tutorial
+
